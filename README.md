@@ -29,5 +29,3 @@ pip install -r requirements.txt
 ## Files to submit (zip)
 - IPYNB, CSV outputs, visualizations, README, .env.example (if used).
 
-## Contact
-When completed, zip the repository and email to `Jbirch@glynac.ai` with subject `"Swati-Dixit_AI-project-submission"`.
